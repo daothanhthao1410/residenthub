@@ -7,9 +7,9 @@ export const MOCK_USERS = [
     email: 'admin@demo.com',
     password: '123456',
     role: 'company_admin',
-    name: 'Nguyễn Hoàng Anh',
+    name: 'Đào Thị Thanh Thảo',
     companyName: 'Sunrise Property Management',
-    avatarInitials: 'HA',
+    avatarInitials: 'TT',
   },
   {
     id: 'u-002',
